@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+config.json
+nuitka_build.bat
+# Virtualenv
+venv/
+.venv/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
