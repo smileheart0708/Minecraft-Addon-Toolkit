@@ -60,8 +60,7 @@
 
 1.  **克隆仓库**
     ```bash
-    # 把下面的 URL 替换成你自己的仓库地址
-    git clone https://github.com/Smileheart/Bedrock-Addon-Toolkit.git
+    git clone https://github.com/smileheart0708/Minecraft-Addon-Toolkit.git
     cd Bedrock-Addon-Toolkit
     ```
 
