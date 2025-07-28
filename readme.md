@@ -1,4 +1,4 @@
-# Bedrock Addon Toolkit (基岩版Addon工具箱)
+# Minecraft Addon Toolkit (Minecraft Addon工具箱)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![PyQt6](https://img.shields.io/badge/UI-PyQt6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
